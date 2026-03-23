@@ -29,3 +29,6 @@ Thumbs.db
 
 # Nix specific
 .direnv/
+
+#docx
+*.docx
